@@ -57,6 +57,7 @@ body {
 }
 
 .bioinfo {
+    text-align:justify;
     padding-top: 29px;
     padding-left: 90px;
     padding-right: 90px;
