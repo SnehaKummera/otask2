@@ -16,7 +16,7 @@ body {
     align-content: center;
     align-items: center;
     color: #ffffff;
-    height: 800vh;
+    height: 200vh;
     margin: 50px;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -44,7 +44,7 @@ body {
 .text {
    text-align:center;
     align-self:center;
-    padding-right:30px;
+    padding-left:30px;
 }
 
 .biographySection {
