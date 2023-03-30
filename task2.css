@@ -16,11 +16,9 @@ body {
     flex-direction: column;
     align-content: center;
     align-items: center;
-
     color: #ffffff;
     height: 100vh;
-    
-     margin: 50px;
+    margin: 50px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
@@ -39,9 +37,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     margin-top: 25px;
-   
-   
-}
+ }
 
 .image {
     height: 210px;
@@ -54,7 +50,6 @@ body {
 
 .biographySection {
     justify-content: center;
-
     padding-top: 20px;
     color: #ffffff;
     text-align: center;
