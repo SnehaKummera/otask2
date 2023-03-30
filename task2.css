@@ -18,7 +18,11 @@ body {
     align-items: center;
 
     color: #ffffff;
-    height: 1000vh;
+    height: 100vh;
+    
+     margin: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .bordercolor {
