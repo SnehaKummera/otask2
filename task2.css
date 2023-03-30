@@ -44,6 +44,7 @@ body {
 .text {
    text-align:center;
     align-self:center;
+    padding-right:30px;
 }
 
 .biographySection {
