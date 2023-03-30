@@ -35,6 +35,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     margin-top: 25px;
+    height:100vh;
 }
 
 .image {
