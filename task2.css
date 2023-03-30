@@ -43,6 +43,7 @@ body {
 
 .text {
    text-align:center;
+    align-self:center;
 }
 
 .biographySection {
@@ -50,6 +51,7 @@ body {
     padding-top: 20px;
     color: #ffffff;
     text-align: center;
+    background-color:black;
    
 }
 
