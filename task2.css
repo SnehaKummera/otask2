@@ -16,7 +16,7 @@ body {
     align-content: center;
     align-items: center;
     color: #ffffff;
-    height: 200vh;
+    height: 150vh;
     
     margin-top: 50px;
     margin-bottom: 50px;
@@ -80,7 +80,7 @@ body {
     background-color: #4C4646;
     padding-top: 10px;
     padding-bottom: 10px;
-    height:100px;
+    height:170px;
 }
 p{
     text-align:left;
